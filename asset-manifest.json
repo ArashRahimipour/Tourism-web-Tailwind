@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tourism-web-Tailwind/static/css/main.5d33641d.css",
+    "main.js": "/Tourism-web-Tailwind/static/js/main.062f362d.js",
+    "index.html": "/Tourism-web-Tailwind/index.html",
+    "main.5d33641d.css.map": "/Tourism-web-Tailwind/static/css/main.5d33641d.css.map",
+    "main.062f362d.js.map": "/Tourism-web-Tailwind/static/js/main.062f362d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d33641d.css",
+    "static/js/main.062f362d.js"
+  ]
+}
